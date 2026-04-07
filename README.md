@@ -68,8 +68,8 @@ Mindset: No excuses. Only results.
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhananjay-2700&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay-2700&theme=radical" height="160"/>
 </p>
 
 ---
