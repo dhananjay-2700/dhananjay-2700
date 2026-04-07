@@ -78,7 +78,10 @@ Mindset: No excuses. Only results.
 
 - Master data science fundamentals  
 - Build strong analytical thinking  
-- Create real-world data projects  
+- Create real-world data projects
+- Learn and apply frontend development (HTML, CSS, JavaScript)
+- Explore backend development (APIs, databases, servers)
+- Build full-stack projects integrating data + web
 - Stay consistent every single day  
 
 ---
