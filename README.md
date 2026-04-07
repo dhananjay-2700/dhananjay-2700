@@ -40,7 +40,7 @@ Mindset: No excuses. Only results.
 ## 📊 DATA STACK
 
 **Languages**  
-`Python` `C++`
+`Python` `CSS` `HTML` 
 
 **Data Science**  
 `NumPy` `Pandas` `Matplotlib`
@@ -90,15 +90,15 @@ Mindset: No excuses. Only results.
 ## 🌐 CONNECT
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:imdhananjay2700@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail">
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/dhananjay-singh-53b7ba388/">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin">
   </a>
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="https://www.instagram.com/dhananjaysinggh/">
     <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram">
   </a>
 </p>
