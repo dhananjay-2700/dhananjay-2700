@@ -33,8 +33,10 @@ Mindset: No excuses. Only results.
 - 🐍 Strengthening Python for data analysis  
 - 🧠 Understanding statistics & data patterns  
 - ⚙️ Practicing problem-solving daily  
-- 🔥 Building discipline & consistency  
-
+- 🌐 Learning frontend (HTML, CSS, JavaScript)
+- 🛠️ Exploring backend (APIs, databases, servers)
+- 🔗 Connecting full-stack skills with real projects
+- 🔥 Building discipline & consistency
 ---
 
 ## 📊 DATA STACK
