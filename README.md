@@ -95,7 +95,7 @@ Mindset: No excuses. Only results.
     <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail">
   </a>
 
-  <a href="https://www.linkedin.com/in/dhananjay-singh-53b7ba388/">
+  <a href="https://www.linkedin.com/in/dhananjaysingh-tech//">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin">
   </a>
 
